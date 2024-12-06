@@ -1,5 +1,5 @@
 # Litemail
-A simple, lightweight, and fast email system built in PHP
+A simple, lightweight, and fast email system
 
 ### Author
 [Sa Aaron](https://saaaron.github.io/)
